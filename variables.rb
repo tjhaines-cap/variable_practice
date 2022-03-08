@@ -15,3 +15,7 @@ dollars = 4.5
 day = true
 night = false
 sunny = true
+
+name = "TJ"
+pet1_name = "Buster"
+pet2_name = "Maximus"
