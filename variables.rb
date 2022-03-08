@@ -11,3 +11,7 @@ fav_num = 8
 height = 5.95
 float1 = 3.5
 dollars = 4.5
+
+day = true
+night = false
+sunny = true
